@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryasukresno10
 - 👀 I’m interested in chemistry and programming
-- 🌱 I’m currently learning javascript, python
+- 🌱 I’m currently learning **javascript, python
 - 🔭 I’m currently working discord bot dev using fiverr
 - 📫 How to reach me? Shows your discord id and chatting together 🤗
 
