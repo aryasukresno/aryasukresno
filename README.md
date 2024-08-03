@@ -1,9 +1,8 @@
 <h3 align="center">Hello Everyone, I'm Arya</h3>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCaF03zjWlvLkPen086GQV4g"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white" alt="Youtube" title="Youtube"></a>
-  <a href="https://instagram.com/lohard64"><img src="https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&logo=instagram&logoColor=white" alt="Instagram" title="Instagram"></a>
-  <a href="https://discordapp.com/users/699475936805912607/"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
+  <a href="https://instagram.com/aryasukresno"><img src="https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&logo=instagram&logoColor=white" alt="Instagram" title="Instagram"></a>
+  <a href="https://discordapp.com/users/773502813493133332/"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
 
   
 
