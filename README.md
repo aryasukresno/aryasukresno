@@ -1,4 +1,4 @@
-<h3 align="center">Hello Everyone, I'm Arya/h3>
+<h3 align="center">Hello Everyone, I'm Arya</h3>
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCaF03zjWlvLkPen086GQV4g"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white" alt="Youtube" title="Youtube"></a>
