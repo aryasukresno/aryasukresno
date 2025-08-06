@@ -14,10 +14,10 @@
 
 <p>Hello Everyone!! Let me introduce myself: My name is Arya Sukresno, currently learning some programming languange like Python, JavaScript, C++. These is useful to me for creating my project like some basic website, working on scientific computing, and even developing AI/ML. As I'm majoring in Chemical Engineer, I'm interested in implementing computation in Chemistry</p>
 
-- ✨ I'm a student majoring in Chemical Engineering who interested in Computer Science Applied in Chemistry
+- ✨ I'm a student majoring in Chemical Engineering who interested in Computer Science Applied in Chemistry 
 - 🌱 I’m currently exploring Artificial Intelligence Technology and Scientific Computing
 - 👯 I’m looking to collaborate on scientific project and with programmers in rest of the Internet.
-- 🤔 I’m looking for help with other people that are interested in AI, ML, Data Science, Quantum and Scientific Computing
+- 🤔 I’m looking for help with other people that are interested in AI, ML, Data Science, and Scientific Computing
 
 
 <!---
